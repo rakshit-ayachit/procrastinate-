@@ -1,0 +1,18 @@
+/* custom.css */
+body {
+    background-color: #f0f0f0; /* Set the background color to gray */
+    color: #333; /* Set the text color to a darker gray */
+}
+
+.stButton {
+    background-color: #777; /* Set button background color to a slightly darker gray */
+    color: #fff; /* Set button text color to white */
+}
+
+.stChatMessage.user {
+    background-color: #eee; /* Set user chat message background color to a lighter gray */
+}
+
+.stChatMessage.assistant {
+    background-color: #ccc; /* Set assistant chat message background color to an even lighter gray */
+}
